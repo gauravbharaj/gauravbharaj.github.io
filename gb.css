@@ -1,4 +1,4 @@
-body { margin: 0px; padding: 0px; text-align: justify; ; color: rgb(0, 0, 0); font-size:14px; font-family:'Segoe UI','Lucida Grande',Verdana,Arial,Helvetica,sans-serif; background-color:rgb(255,255,255) ; }
+body { margin: 0px; padding: 0px; text-align: justify; ; color: rgb(0, 0, 0); font-size:14px; font-family:'Segoe UI','Lucida Grande',Verdana,Arial,Helvetica,sans-serif; background-color:rgb(255,255,255);}
 h1.title { margin: 0px 10px 30px; padding: 14px; padding-top: 18px; font-size: 100%; line-height: 28px; color: rgb(255, 255, 255); }
 h1 { margin: 0px 0px 0px 0px; font-size: 150%; line-height: 28px; font-weight: 900; color: black; }
 h2 { font-weight: normal; font-size: 125%; line-height: normal; color: rgb(153, 0, 0); }
@@ -16,5 +16,4 @@ li { margin: 3px 0px; }
 a:link{ color:#00709f; text-decoration: none;}
 a:visited{color:#03697a}
 a:hover{color:#3390b1}
-
 #Content { margin-left: auto; margin-right: auto; padding: 20px; width: 800px }
